@@ -1,6 +1,3 @@
-annixa/pg_dump
-================
-
 Docker image with pg_dump. Find the image, here: https://ghcr.io/hollanbm/pg_dump
 
 ## Usage
